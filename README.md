@@ -13,7 +13,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd nodejs-shopping-cart
 > npm install
 > npm start
-> localhost:3000
+> localhost:4000
 ```
 
 #### Not Familiar with Git?
@@ -22,5 +22,5 @@ Click [here](https://github.com/owaiskhan772/nodejs-shopping-cart) then download
 ```
 > npm install
 > npm start
-> localhost:3000
+> localhost:4000
 ```
